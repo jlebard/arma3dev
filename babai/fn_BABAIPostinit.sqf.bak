@@ -1,0 +1,2 @@
+
+[] execVM "\BABAI\init\init_patrol.sqf";
